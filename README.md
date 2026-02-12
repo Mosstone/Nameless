@@ -33,13 +33,10 @@ $\text{\textcolor{#2f334d}{Flags:}}$
   
   
   
-$\color{#5d6393}{}$
-<img width="1920" height="653" alt="Screenshot From 2026-02-12 02-14-01" src="https://github.com/user-attachments/assets/47f0fbb7-c1a5-4aa1-8b1e-9c515405c440" />  
-
-$\color{#5d6393}{\text{The default prune settings would prevent this many backups from accumelating}}$  
-
-
 <img width="1920" height="582" alt="image" src="https://github.com/user-attachments/assets/eaca280b-5788-4b10-a5e5-89c3a8dc2b18" />  
 
 $\color{#5d6393}{\text{With prune enabled, the excess backups were deleted, while 10 were retained as backups}}$
 $\color{#5d6393}{\text{This can be easily changed to a lower number and backups may also be disabled entirely}}$
+
+$\color{#5d6393}{\text{Optionally create .compile files dynamically, using guided 'nameless' command. Changes}}$  
+$\color{#5d6393}{\text{Changes made to this will be retained. Use 'nameless reset' for fossil based reversion}}$  

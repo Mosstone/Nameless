@@ -23,7 +23,7 @@ $\text{\textcolor{#2f334d}{Flags:}}$
     $\text{\textcolor{#5e8eed}{    --bright           }\textcolor{#5d6393}{Make the dark text lighter}}$  
     $\text{\textcolor{#5e8eed}{    --dryrun           }\textcolor{#5d6393}{View what the script would do and directories used}}$  
     $\text{\textcolor{#5e8eed}{    --nobak            }\textcolor{#5d6393}{Skip making a backup at all, instead replacing the binary}}$  
-    $\text{\textcolor{#5e8eed}{    --prune            }\textcolor{#5d6393}{Remove backups older than the 10ᵗʰ}}$  
+    $\text{\textcolor{#5e8eed}{    --prune            }\textcolor{#5d6393}{Remove backups older than the third}}$  
     $\text{\textcolor{#5e8eed}{                           }\textcolor{#5d6393}{The nobak and prune modes can be persistently enabled}}$  
     $\text{\textcolor{#5e8eed}{                           }\textcolor{#5d6393}{in config, along with the number of backups to retain}}$  
   
@@ -34,9 +34,6 @@ $\text{\textcolor{#2f334d}{Flags:}}$
   
   
 <img width="1920" height="582" alt="image" src="https://github.com/user-attachments/assets/eaca280b-5788-4b10-a5e5-89c3a8dc2b18" />  
-
-$\color{#5d6393}{\text{With prune enabled, the excess backups were deleted, while 10 were retained as backups}}$
-$\color{#5d6393}{\text{This can be easily changed to a lower number and backups may also be disabled entirely}}$
 
 $\color{#5d6393}{\text{Optionally create .compile files dynamically, using guided 'nameless' command. Choices}}$  
 $\color{#5d6393}{\text{will be retained for the current user. Use 'nameless reset' for fossil based reversion}}$  

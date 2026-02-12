@@ -38,5 +38,5 @@ $\text{\textcolor{#2f334d}{Flags:}}$
 $\color{#5d6393}{\text{With prune enabled, the excess backups were deleted, while 10 were retained as backups}}$
 $\color{#5d6393}{\text{This can be easily changed to a lower number and backups may also be disabled entirely}}$
 
-$\color{#5d6393}{\text{Optionally create .compile files dynamically, using guided 'nameless' command. Changes}}$  
-$\color{#5d6393}{\text{Changes made to this will be retained. Use 'nameless reset' for fossil based reversion}}$  
+$\color{#5d6393}{\text{Optionally create .compile files dynamically, using guided 'nameless' command. Choices}}$  
+$\color{#5d6393}{\text{will be retained for the current user. Use 'nameless reset' for fossil based reversion}}$  
